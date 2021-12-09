@@ -291,17 +291,6 @@
   "death.attack.pedestal12": "%1$s, мы просили вас не баловаться с острыми предметами!",
   "death.attack.pedestal13": "%1$s, стал Ангелочком и Вознёсся!",
   
-  "item.pedestals.coin.fluidtank": "Апгрейд",
-  "item.pedestals.coin.fluidtank.tooltip_name": "Бак для жидкости",
-  "item.pedestals.coin.fluidtank.tooltip_fluidcapacity": "Объём бака: ",
-  "item.pedestals.coin.fluidtank.tooltip_rate": "Объём передачи жидкости: ",
-  "item.pedestals.coin.fluidtank.tooltip_speed": "Скорость передачи: ",
-  "item.pedestals.coin.fluidtank.chat_fluid": "Заполнено: ",
-  "item.pedestals.coin.fluidtank.chat_fluidseperator": " - ",
-  "item.pedestals.coin.fluidtank.chat_fluidlabel": "mb",
-  "item.pedestals.coin.fluidtank.chat_rate": "Объём передачи жидкости: ",
-  "item.pedestals.coin.fluidtank.chat_speed": "Скорость передачи: ",
-  
   "item.pedestals.coin.recycler": "Апгрейд",
   "item.pedestals.coin.recycler.tooltip_name": "Переработчик",
   "item.pedestals.coin.recycler.tooltip_speed": "Скорость работы: ",
@@ -803,7 +792,18 @@
   "item.pedestals.coin.fluiddrain.chat_speed": "Скорость работы: ",
   "jei.pedestals.fluiddrain.desc": "Drains fluids from its internal tank and places it in the world. This only receives fluids from the Pedestal Fluid Network and cannot send fluids. To clear fluids from the upgrade, hold the Upgrade Tool in your off-hand, then Shift + RClick the upgrade in your main hand on any block.",
   "jei.pedestals.fluidtank.desc": "Stores a large amount of one fluid. This can transfer or receive fluids from the Pedestal Fluid Network. To clear fluids from the upgrade, hold the Upgrade Tool in your off-hand, then Shift + RClick the upgrade in your main hand on any block.",
-
+    
+  "item.pedestals.coin.fluidtank": "Апгрейд",
+  "item.pedestals.coin.fluidtank.tooltip_name": "Бак для жидкости",
+  "item.pedestals.coin.fluidtank.tooltip_fluidcapacity": "Объём бака: ",
+  "item.pedestals.coin.fluidtank.tooltip_rate": "Объём передачи жидкости: ",
+  "item.pedestals.coin.fluidtank.tooltip_speed": "Скорость передачи: ",
+  "item.pedestals.coin.fluidtank.chat_fluid": "Заполнено: ",
+  "item.pedestals.coin.fluidtank.chat_fluidseperator": " - ",
+  "item.pedestals.coin.fluidtank.chat_fluidlabel": "mb",
+  "item.pedestals.coin.fluidtank.chat_rate": "Объём передачи жидкости: ",
+  "item.pedestals.coin.fluidtank.chat_speed": "Скорость передачи: ",
+  
   "item.pedestals.coin.fluidrelay": "Апгрейд",
   "item.pedestals.coin.fluidrelay.tooltip_name": "Fluid Relay Upgrade",
   "item.pedestals.coin.fluidrelay.tooltip_fluidcapacity": "Fluid Buffer Size: ",
